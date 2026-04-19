@@ -15,5 +15,3 @@ Evaluation: Model validation using a split-train-test approach to ensure accurac
 
 Tech Stack
 Language: Python
-
-Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
